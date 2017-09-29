@@ -1,5 +1,5 @@
 //<![CDATA[
-var seconds = 10;
+var seconds = 20;
 setInterval(
     function() {
         if (seconds <= 1) {
